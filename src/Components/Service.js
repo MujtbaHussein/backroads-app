@@ -12,3 +12,4 @@ const Service = ({ icon, title, text }) => {
   );
 };
 export default Service;
+ظ;
